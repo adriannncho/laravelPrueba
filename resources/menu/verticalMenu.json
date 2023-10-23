@@ -1,0 +1,22 @@
+{
+  "menu": [
+    {
+      "url": "/",
+      "name": "Proyectos",
+      "icon": "menu-icon tf-icons bx bx-home-circle",
+      "slug": "pages-home"
+    },
+    {
+      "url": "roles/page-2",
+      "icon": "menu-icon tf-icons bx bx-file",
+      "name": "Usuarios",
+      "slug": "pages-page-2"
+    },
+    {
+      "url": "/page-3",
+      "icon": "menu-icon tf-icons bx bx-file",
+      "name": "Page 3",
+      "slug": "pages-page-3"
+    }
+  ]
+}
